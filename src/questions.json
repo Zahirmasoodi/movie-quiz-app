@@ -1,0 +1,122 @@
+[
+	{
+		"question": "Name the film which boasts the famous line: 'You can’t handle the truth!'",
+		"optionA": "Top Gun",
+		"optionB": "Fury",
+		"optionC": "A Few Good Men",
+		"optionD": "Platoon",
+		"answer": "A Few Good Men"
+	},
+	{
+		"question": "In what 1976 thriller does Robert De Niro famously say 'You talkin’ to me?'",
+		"optionA": "Taxi Driver",
+		"optionB": "Goodfellas",
+		"optionC": "Heat",
+		"optionD": "Casino",
+		"answer": "Taxi Driver"
+	},
+	{
+		"question": "For what movie did Steven Spielberg win his first Oscar for Best Director?",
+		"optionA": "Schindler’s List",
+		"optionB": "Jaws",
+		"optionC": "Saving Private Ryan",
+		"optionD": "Lincoln",
+		"answer": "Schindler’s List"
+	},
+	{
+		"question": "Which Alfred Hitchcock thriller is notorious for its shocking 'shower scene'?",
+		"optionA": "Vertigo",
+		"optionB": "The Birds",
+		"optionC": "Dial M for Murder",
+		"optionD": "Psycho",
+		"answer": "Psycho"
+	},
+	{
+		"question": "What is the first rule of Fight Club?",
+		"optionA": "Someone Yells, STOP",
+		"optionB": "One fight at a time, fellas",
+		"optionC": "Never talk about Fight Club",
+		"optionD": "Only two guys to a fight",
+		"answer": "Never talk about Fight Club"
+	},
+	{
+		"question": "On what date is the Frank Capra classic Its a Wonderful Life set?",
+		"optionA": "New Year's Eve",
+		"optionB": "Christmas Eve",
+		"optionC": "July 4th",
+		"optionD": "Thanksgiving",
+		"answer": "Christmas Eve"
+	},
+	{
+		"question": "What is Darth Vaders real name?",
+		"optionA": "Sheev Palpatine",
+		"optionB": "Count Dooku",
+		"optionC": "Wilhuff Tarkin",
+		"optionD": "Anakin Skywalker",
+		"answer": "Anakin Skywalker"
+	},
+	{
+		"question": "What is the first word spoken in Star Wars, The Empire Strikes Back?",
+		"optionA": "I know",
+		"optionB": "Echo",
+		"optionC": "Do, or do not",
+		"optionD": "Help me, Obi-Wan Kenobi",
+		"answer": "Echo"
+	},
+	{
+		"question": "‘Frankly my dear, I don’t give a damn’ is an iconic line from which classic film?",
+		"optionA": "Gone with the Wind",
+		"optionB": "Casablanca",
+		"optionC": "It Happened One Night",
+		"optionD": "The Philadelphia Story",
+		"answer": "Gone with the Wind"
+	},
+	{
+		"question": "Never Say Never Again was the final James Bond appearance for which actor?",
+		"optionA": "Roger Moore",
+		"optionB": "Timothy Dalton",
+		"optionC": "Sean Connery",
+		"optionD": "David Niven",
+		"answer": "Sean Connery"
+	},
+	{
+		"question": "I owe everything to George Bailey. Help him, Dear Father.",
+		"optionA": "It Happened One Night",
+		"optionB": "It's a Wonderful Life",
+		"optionC": "Broadway Bill",
+		"optionD": "Sunset Boulevard",
+		"answer": "It's a Wonderful Life"
+	},
+	{
+		"question": "I will tell you of William Wallace. Historians from England will say I am a liar. But history is written by those who have hung heroes.",
+		"optionA": "Braveheart",
+		"optionB": "Kingdom of Heaven",
+		"optionC": "Troy",
+		"optionD": "Gandhi",
+		"answer": "Braveheart"
+	},
+	{
+		"question": "Name the film from which this famous quote is derived: 'When you realize you want to spend the rest of your life with somebody, you want the rest of your life to start as soon as possible.'",
+		"optionA": "The Notebook",
+		"optionB": "When Harry Met Sally",
+		"optionC": "A Walk to Remember",
+		"optionD": "Eternal Sunshine of the Spotless Mind",
+		"answer": "When Harry Met Sally"
+	},
+	{
+		"question": "Where do Privates Joker, Cowboy, Gomer Pyle and Snowball and the rest of the platoon attend boot camp?",
+		"optionA": "Camp Pendleton",
+		"optionB": "Camp Lejeune",
+		"optionC": " San Diego",
+		"optionD": "Parris Island",
+		"answer": "Parris Island"
+	},
+	{
+		"question": "Who directed Citizen Kane",
+		"optionA": "Stanley Kubrick",
+		"optionB": "Federico Fellini",
+		"optionC": "Ingmar Bergman",
+		"optionD": "Orson Welles",
+		"answer": "Orson Welles"
+	}
+]
